@@ -1,0 +1,37 @@
+[
+  {
+    "Code": 1001,
+    "Name": "Sebastian",
+    "LastName": "Zapata"
+  },
+  {
+    "Code": 1002,
+    "Name": "Claudia",
+    "LastName": "Gil"
+  },
+  {
+    "Code": 1003,
+    "Name": "Mateo",
+    "LastName": "Toro"
+  },
+  {
+    "Code": 1004,
+    "Name": "Jaime",
+    "LastName": "Cortes"
+  },
+  {
+    "Code": 1005,
+    "Name": "Manuela",
+    "LastName": "Castanio"
+  },
+  {
+    "Code": 1006,
+    "Name": "David",
+    "LastName": "Lopez"
+  },
+  {
+    "Code": 1007,
+    "Name": "Maria",
+    "LastName": "Llano"
+  }
+]
